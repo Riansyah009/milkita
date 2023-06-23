@@ -60,6 +60,28 @@
 # Instalasi
 
 ---------
+
+### RUN ON REPLIT
+1. Kunjungi web [ini](https://replit.com)
+2. Login atau register
+3. Tekan Create Repl
+4. Tekan `import for github`
+5. Cari Repo ini atau ketikkan `findme-19/milkita`
+6. Language Cari/Ketik `nix Bash` jangan nodejs
+7. Tekan `Import from Github`
+8. Edit `config.js` ganti nomer owner dengan nomermu atau edit yang lainnya
+9. Geser ke Kanan cari tulisan `Shell` lalu klik
+10. Ketikkan `npm install` untuk menginstall module
+11. Tunggu hingga proses install module selesai
+12. Jalankan Bot dengan ketikkan ini
+```bash
+node . --server
+```
+
+
+---------
+
+
 ### FOR TERMUX USER
 1. Type mentioned below given commands one by one in Termux.
 ```sh

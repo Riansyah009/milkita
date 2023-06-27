@@ -19,18 +19,18 @@ global.moment = moment
 /*============= WAKTU =============*/
 global.owner = [
 	//  ['6281234288573'],
-	['6282331033919'],
-	['212706611366'],
-	['6282256080304'],
-	['6282188376948', 'Riin', false]
+	['6282253969170'],
+	['6282253969170'],
+	['6282253969170'],
+	['6282253969170', 'Riansyah true]
 	// [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 
-global.packname = 'I ʜᴏᴘᴇ Yᴏᴜ\'ʀᴇ ғɪɴᴇ'
-global.author = '@x7||skizo'
-global.wm = '©xzn.wtf'
+global.packname = '6282253969170\'riansyah'
+global.author = '@Sky||Md'
+global.wm = '©Sky-Bot'
 global.no_wallet = ''
 global.nomorown = ''
 global.xznkey = '' // chat atmin buat dapetin apikeynya
@@ -44,7 +44,7 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
 	// 'https://website': 'apikey'
-	'https://xzn.wtf/': xznkey
+	'https://xzn.wtf/': rynxgacor
 }
 // Function untuk menghitung keuntungan berdasarkan persentase
 function calculateProfit(originalPrice, profitPercentage) {
